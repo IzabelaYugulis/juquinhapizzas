@@ -1,3 +1,8 @@
+<?php
+require './config/config.php';
+require './app/pages/partials/header.php';
+?>
+
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
